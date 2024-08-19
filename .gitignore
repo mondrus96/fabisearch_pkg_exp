@@ -1,0 +1,6 @@
+*.Rout
+*.out
+*.png
+*.jpeg
+*.csv
+!images/*.png
